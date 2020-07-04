@@ -1,0 +1,156 @@
+Byte Sequence (Hexadecimal w/ Wildcards),File Extension (Optional String),Description (Optional String)
+4D 49 4C 20,stg,"""SEAN : Session Analysis"" Training file. Also used in compatible software ""Rpw : Rowperfect for Windows"" and ""RP3W : ROWPERFECT3 for Windows""."
+37 7A BC AF 27 1C,7z,7-Zip File Format
+30 26 B2 75 8E 66 CF 11 A6 D9 00 AA 00 62 CE 6C,"asf
+wma
+wmv",Advanced Systems Format[17]
+53 50 30 31,bin,Amazon Kindle Update Package [5]
+4F 62 6A 01,avro,Apache Avro binary file format
+4F 52 43,orc,Apache ORC (Optimized Row Columnar) file format
+50 41 52 31,,Apache Parquet columnar file format
+78 01 73 0D 62 62 60,dmg,Apple Disk Image file
+05 07 00 00 42 4F 42 4F 05 07 00 00 00 00 00 00 00 00 00 00 00 01,cwk,AppleWorks 5 document
+06 07 E1 00 42 4F 42 4F 06 07 E1 00 00 00 00 00 00 00 00 00 00 01,cwk,AppleWorks 6 document
+52 49 46 46 ?? ?? ?? ?? 41 56 49 20,avi,Audio Video Interleave video format
+42 50 47 FB,bpg,Better Portable Graphics format[10]
+42 4D,"bmp
+dib","BMP file, a bitmap format used mostly in the Windows world"
+FF FE,,Byte-order mark for text file encoded in little-endian 16-bit Unicode Transfer Format
+FF FE 00 00,,Byte-order mark for text file encoded in little-endian 32-bit Unicode Transfer Format
+49 49 2A 00 10 00 00 00 43 52,cr2,"Canon RAW Format Version 2[8]
+Canon's RAW format is based on the TIFF file format[9]"
+D0 CF 11 E0 A1 B1 1A E1,"doc
+xls
+ppt
+msg","Compound File Binary Format, a container format used for document by older versions of Microsoft Office.[22] It is however an open format used by other programs as well."
+1F 9D,"z
+tar.z","compressed file (often tar zip)
+using Lempel-Ziv-Welch algorithm"
+1F A0,"z
+tar.z","Compressed file (often tar zip)
+using LZH algorithm"
+42 5A 68,bz2,Compressed file using Bzip2 algorithm
+52 4E 43 01 52 4E 43 02,,Compressed file using Rob Northen Compression (version 1 and 2) algorithm
+00 00 01 00,ico,Computer icon encoded in ICO file format[6]
+C9,com,CP/M 3 and higher with overlays[14]
+64 65 78 0A 30 33 35 00,dex,Dalvik Executable
+30 82,der,DER encoded X.509 certificate
+41 54 26 54 46 4F 52 4D ?? ?? ?? ?? 44 4A 56,"djvu
+djv","DjVu document
+The following byte is either 55 (U) for single-page or 4D (M) for multi-page documents."
+4D 5A,"exe
+dll",DOS MZ executable file format and its descendants (including NE and PE)
+5A 4D,exe,DOS ZM executable file format and its descendants (rare)
+52 65 63 65 69 76 65 64,eml,Email Message var5[49]
+45 4D 58 32,ez2,Emulator Emaxsynth samples
+45 4D 55 33,ez3iso,Emulator III synth samples
+7F 45 4C 46,,Executable and Linkable Format
+78 61 72 21,xar,eXtensible ARchive format[30]
+3c 3f 78 6d 6c 20,XML,eXtensible Markup Language when using the ASCII character encoding
+42 41 43 4B 4D 49 4B 45 44 49 53 4B,bac,File or tape containing a backup done with AmiBack on an Amiga.It typically is paired with an index file (idx) with the table of contents.
+43 57 53 46 57 53,swf,flash .swf
+53 49 4D 50 4C 45 20 20 3D 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 54,fits,Flexible Image Transport System (FITS)[19]
+66 4C 61 43,flac,Free Lossless Audio Codec[20]
+46 4C 49 46,flif,Free Lossless Image Format
+41 47 44 33,fh8,FreeHand 8 document[27][28][29]
+43 72 32 34,crx,Google Chrome extension[25] or packaged app[26]
+52 49 46 46 ?? ?? ?? ?? 57 45 42 50,webp,"Google WebP image file, where ?? ?? ?? ?? is the file size. More informarion on WebP File Header"
+1F 8B,"gz
+tar.gz",GZIP compressed file[39]
+89 50 4E 47 0D 0A 1A 0A,png,Image encoded in the Portable Network Graphics format[13]
+47 49 46 38 37 61 47 49 46 38 39 61,gif,Image file encoded in the Graphics Interchange Format (GIF)[7]
+49 4E 44 58,idx,Index file to a file or tape containing a backup done with AmiBack on an Amiga.
+CA FE BA BE,class,"Java class file, Mach-O Fat Binary"
+FE ED FE ED,,JKS JavakeyStore
+FF D8 FF DB FF D8 FF E0 00 10 4A 46 49 46 00 01 FF D8 FF EEFF D8 FF E1 ?? ?? 45 78 69 66 00 00,"jpg
+jpeg",JPEG raw or in the JFIF or Exif file format
+37 48 03 02 00 00 00 00 58 35 30 39 4B 45 59,kdb,KDB file
+80 2A 5F D7,cin,Kodak Cineon image
+CF 84 01,lep,Lepton compressed JPEG image[43]
+A1 B2 C3 D4 D4 C3 B2 A1,pcap,Libpcap File Format[1]
+21 3C 61 72 63 68 3E,deb,linux deb file
+1B 4C 75 61,luac,Lua bytecode[46]
+04 22 4D 18,lz4,"LZ4 Frame Format[40]
+Remark: LZ4 block format does not offer any magic bytes.[41]"
+62 76 78 32,lzfse,LZFSE - Lempel-Ziv style data compression algorithm using Finite State Entropy coding. OSS by Apple.[45]
+4C 5A 49 50,lz,lzip compressed file
+CE FA ED FE,,"Mach-O binary (reverse byte ordering scheme, 32-bit)[15]"
+CF FA ED FE,,"Mach-O binary (reverse byte ordering scheme, 64-bit)[15]"
+62 6F 6F 6B 00 00 00 00 6D 61 72 6B 00 00 00 00,alias,macOS file Alias[47] (Symbolic link)
+4D 4C 56 49,MLV,Magic Lantern Video file[37]
+1A 45 DF A3,"mkv
+mka
+mks
+mk3d
+webm","Matroska media container, including WebM"
+4D 53 43 46,cab,Microsoft Cabinet file
+53 5A 44 44 88 F0 27 33,"Various. (Replacing the last character of the original filename extension with an underscore, e.g. setup.exe becomes setup.ex_)","Microsoft compressed file in Quantum format, used prior to Windows XP. File can be decompressed using Extract.exe or Expand.exe distributed with earlier versions of Windows."
+54 41 50 45,,Microsoft Tape Format
+5B 5A 6F 6E 65 54 72 61 6E 73 66 65 72 5D,Identifier,Microsoft Zone Identifier for URL Security Zones[48]
+4D 54 68 64,"mid
+midi",MIDI sound file[21]
+49 44 33,mp3,MP3 file with an ID3v2 container
+00 00 01 BA 47 00 00 01 B3,mpgmpeg,"MPEG Program Stream
+MPEG Transport Stream
+MPEG-1 video and MPEG-2 video (MPEG-1 Part 2 and MPEG-2 Part 2)"
+00 00 01 BA,m2pvob,MPEG Program Stream (MPEG-1 Part 1 (essentially identical) and MPEG-2 Part 1)
+FF FB FF F3 FF F2,mp3,MPEG-1 Layer 3 file without an ID3 tag or with an ID3v1 tag (which's appended at the end of the file)
+49 54 53 46 03 00 00 00 60 00 00 00,chm,MS Windows HtmlHelp Data
+4E 45 53 1A,nes,Nintendo Entertainment System ROM file[34]
+4F 67 67 53,"ogg
+oga
+ogv","Ogg, an open source media container format"
+74 6F 78 33,tox,Open source portable voxel file[36]
+76 2F 31 01,exr,OpenEXR image
+BE BA FE CA,DBA,Palm Desktop Calendar Archive
+00 01 44 54,TDA,Palm Desktop Calendar Archive
+00 01 00 00,,Palm Desktop Data File (Access format)
+00 01 42 44,DBA,Palm Desktop To Do Archive
+0A 0D 0D 0A,pcapng,PCAP Next Generation Dump File Format[2]
+25 50 44 46 2d,pdf,PDF document[16]
+85 ?? ?? 03,pgp,PGP file [50]
+65 87 78 56,"p25
+obt",PhotoCap Object Templates
+78 56 34,"pbt
+pdt
+pea
+peb
+pet
+pgt
+pict
+pjt
+pkt
+pmt",PhotoCap Template
+55 55 AA AA,pcv,PhotoCap Vector
+38 42 50 53,psd,"Photoshop Document file, Adobe Photoshop's native file format"
+25 21 50 53,ps,PostScript document
+4A 6F 79 21,,Preferred Executable Format
+52 61 72 21 1A 07 00,rar,RAR archive version 1.50 onwards[11]
+52 61 72 21 1A 07 01 00,rar,RAR archive version 5.0 onwards[12]
+53 45 51 36,rc,RCFile columnar file format
+ED AB EE DB,rpm,RedHat Package Manager (RPM) package [3]
+7B 5C 72 74 66 31,rtf,Rich Text Format
+45 52 02 00 00 00 8B 45 52 02 00 00 00,toast,"Roxio Toast disc image file, also some .dmg-files begin with same bytes"
+23 21,,Script or data to be passed to the program following the shebang (#!).
+3A 29 0A,sml,Smile file
+53 51 4c 69 74 65 20 66 6f 72 6d 61 74 20 33 00,"sqlitedb
+sqlite
+db",SQLite Database [4]
+31 0A 30 30,srt,SubRip File
+24 53 44 49 30 30 30 31,,"System Deployment Image, a disk image format used by Microsoft"
+20 02 01 62 A0 1E AB 07 02 00 00 00,tde,Tableau Datasource
+54 44 45 46,TDEF,Telegram Desktop Encrypted File
+54 44 46 24,TDF$,Telegram Desktop File
+27 05 19 56,,U-Boot / uImage. Das U-Boot Universal Boot Loader.[44]
+EF BB BF,,"UTF-8 encoded Unicode byte order mark, commonly seen in text files."
+4B 44 4D,vmdk,VMDK files[23][24]
+52 49 46 46 ?? ?? ?? ?? 57 41 56 45,wav,Waveform Audio File Format
+00 61 73 6D,wasm,WebAssembly binary format[42]
+50 4D 4F 43 43 4D 4F 43,dat,Windows Files And Settings Transfer Repository[31]See also USMT 3.0 (Win XP)[32] and USMT 4.0 (Win 7)[33] User Guides
+44 43 4D 01 50 41 33 30,,Windows Update Binary Delta Compression[38]
+77 4F 46 46,woff,WOFF File Format 1.0
+77 4F 46 32,woff2,WOFF File Format 2.0
+FD 37 7A 58 5A 00,"xz
+tar.xz","XZ compression utility
+using LZMA2 compression"
+28 B5 2F FD,zst,Zstandard compressed file[51][52]
